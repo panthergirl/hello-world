@@ -1,7 +1,7 @@
 # hello-world
 hello world repository
 
-Itroduction.....
+Introduction.....
 if [[ -f $filename ]]; then
   echo "$filename is a regular file"
 elif [[ -d $filename ]]; then
